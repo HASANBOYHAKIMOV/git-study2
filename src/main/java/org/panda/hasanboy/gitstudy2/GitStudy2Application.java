@@ -14,6 +14,7 @@ public class GitStudy2Application {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("Hasanboy Hakimov");
+        System.out.println("Hasanboy Hakimov Shuhratjon ugli");
         SpringApplication.run(GitStudy2Application.class, args);
     }
 
